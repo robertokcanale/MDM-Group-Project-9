@@ -1,2 +1,1 @@
 gdi32_comm_shutdown wait for polling thread timed out.
-Error: CommGenPoll WaitForMultipleObjects failed! GetLastError: 6
