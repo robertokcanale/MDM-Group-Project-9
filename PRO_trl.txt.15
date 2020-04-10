@@ -1,0 +1,17 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : Do you want to quit Sketcher?
+!               : Modifications made inside Sketcher will not be saved.
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Move `main_dlg_cur` `main_dlg_cur` 2 -2.491196 1.297498
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
