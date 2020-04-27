@@ -1,0 +1,83 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAll the objects which were not displayed have been erased.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `2020_06_02.prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `2020_06_02.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+!27-Apr-20 11:53:44  Start C:\Users\marcoelaura\Desktop\MDM 2020\GitHub\MDM-Group-Project-9\2020_06_02.prt.14
+!27-Apr-20 11:53:44  End   C:\Users\marcoelaura\Desktop\MDM 2020\GitHub\MDM-Group-Project-9\2020_06_02.prt.14
+!%CECould not read from Model Tree config file C:\PTC\Standard\pro-files\tree.cfg.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelBackup` 
+~ Select `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `OK`
+~ Arm `storage_conflicts` `Main_Table` 2 `0row` `description`
+~ Select `storage_conflicts` `Main_Table` 2 `0row` `description`
+~ Activate `storage_conflicts` `Cancel_PushButton`
+~ Wheel `main_dlg_cur` `proe_win` 9 404 233 393216 0 1023 492 1366 768 206254
+~ Wheel `main_dlg_cur` `proe_win` 9 409 230 393216 1536 1023 492 1366 768 206422
+~ Wheel `main_dlg_cur` `proe_win` 9 424 227 458752 512 1023 492 1366 768 206534
+~ Wheel `main_dlg_cur` `proe_win` 9 507 196 458752 0 1023 492 1366 768 206670
+~ Wheel `main_dlg_cur` `proe_win` 9 501 188 458752 0 1023 492 1366 768 206797
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdMmModelProperties` 
+~ Activate `mdlprops_dlg` `MASS_PROPS_lay_Controls.push_Change.lay_instance`
+!ODUI external UI session start for device : mass_prop_dlg 
+~ Trigger `mass_prop_dlg` `CSYSInput` `0`
+~ Trigger `mass_prop_dlg` `CSYSInput` ``
+~ Activate `mass_prop_dlg` `OkPush`
+!Undo: added rec_id -1 type 5205 
+!ODUI external UI session stop. 
+~ Close `mdlprops_dlg` `mdlprops_dlg`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelBackup` 
+~ Select `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `OK`
+!%CI2020_06_02 has been saved.
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAll the objects which were not displayed have been erased.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `2020_06_03.prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `2020_06_03.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+!27-Apr-20 11:54:39  Start C:\Users\marcoelaura\Desktop\MDM 2020\GitHub\MDM-Group-Project-9\2020_06_03.prt.14
+!27-Apr-20 11:54:39  End   C:\Users\marcoelaura\Desktop\MDM 2020\GitHub\MDM-Group-Project-9\2020_06_03.prt.14
+!%CECould not read from Model Tree config file C:\PTC\Standard\pro-files\tree.cfg.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelBackup` 
+~ Select `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `rev0`
+~ Activate `file_saveas` `OK`
+!%CI2020_06_03 has been saved.
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelEraseNotDisp` 
+~ Activate `file_erase_nd` `ok_pb`
+!%CIAll the objects which were not displayed have been erased.
